@@ -1,0 +1,12 @@
+[
+  {
+    "id": "camp-ba-long",
+    "number": "01",
+    "title": "Camp Ba-Long Resort",
+    "tag": "Full-Stack Web Dev",
+    "year": "2026",
+    "description": "Full-stack resort booking website with a custom CMS — built the front-end, back-end, and admin content management from scratch. Designed a mobile-responsive interface for guests to browse rooms, rates, and amenities, and led QA to keep the site reliable for guests and admins alike.",
+    "stack": ["React", "Vite", "Supabase", "Vercel"],
+    "link": "https://camp-ba-long.vercel.app/"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Programming Languages",
+    "items": [
+      { "name": "JavaScript", "level": "Proficient" },
+      { "name": "Python", "level": "Proficient" },
+      { "name": "C", "level": "Proficient" },
+      { "name": "Java", "level": "Working Knowledge" },
+      { "name": "C++", "level": "Familiar" },
+      { "name": "C#", "level": "Familiar" }
+    ]
+  },
+  {
+    "name": "Software & Tools",
+    "items": [
+      { "name": "Git / GitHub", "level": "Working Knowledge" },
+      { "name": "MS Word", "level": "Proficient" },
+      { "name": "PowerPoint", "level": "Working Knowledge" },
+      { "name": "AutoCAD", "level": "Working Knowledge" }
+    ]
+  },
+  {
+    "name": "Focus Areas",
+    "items": [
+      { "name": "Embedded Systems", "level": "" },
+      { "name": "IoT", "level": "" },
+      { "name": "Robotics", "level": "" },
+      { "name": "QA & Testing", "level": "" }
+    ]
+  }
+]

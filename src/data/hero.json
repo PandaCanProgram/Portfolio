@@ -1,0 +1,8 @@
+{
+  "name": "John Anthony Lontoc",
+  "role": "Computer Engineer & Full-Stack Developer",
+  "tagline": "I build rescue drones by day and full-stack websites by night — turning hardware ideas and web projects into things that actually ship.",
+  "availability": "Open to freelance & internship work",
+  "primaryCta": { "label": "See My Work", "href": "#work" },
+  "secondaryCta": { "label": "Get In Touch", "href": "#contact" }
+}
