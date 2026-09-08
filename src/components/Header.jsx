@@ -29,6 +29,11 @@ export default function Header() {
           </span>
         </a>
 
+        <span className="status-badge" title="This site is under active development">
+          <span className="status-badge-dot" />
+          Site in Progress
+        </span>
+
         <div className="nav-group">
           <nav className={`nav ${open ? 'nav-open' : ''}`}>
             {NAV_LINKS.map((link) => (
