@@ -1,14 +1,14 @@
 {
-  "heading": "Hardware brain, ",
-  "highlight": "web dev",
-  "headingEnd": " hands.",
+  "heading": "Building the web, ",
+  "highlight": "end to end",
+  "headingEnd": ".",
   "paragraphs": [
-    "I'm a Computer Engineering student based in Alaminos, Laguna, specializing in embedded systems and robotics. My thesis, AeroTech 737R — a Pixhawk and Raspberry Pi-based rescue drone — was accepted for presentation at Philippine Metals 2026 (IMEC 2026).",
-    "Alongside hardware, I build full-stack websites — from custom CMS builds to production deployments — through freelance work and internships. I like projects where I get to touch both the circuit board and the codebase."
+    "I'm a Computer Engineering student based in Alaminos, Laguna, focused on full-stack web development. I build everything from front-end interfaces to back-end systems, through freelance work and internships.",
+    "I like projects where I own the whole stack — from custom CMS builds to production deployments — and I care about shipping things that are tested and actually work."
   ],
   "facts": [
     { "label": "Location", "value": "Alaminos, Laguna, PH" },
-    { "label": "Focus", "value": "Embedded Systems + Web Dev" },
+    { "label": "Focus", "value": "Full-Stack Web Development" },
     { "label": "Languages", "value": "English / Tagalog" },
     { "label": "Status", "value": "Open to Work" }
   ]

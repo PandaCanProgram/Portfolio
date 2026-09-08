@@ -22,9 +22,9 @@
   {
     "name": "Focus Areas",
     "items": [
-      { "name": "Embedded Systems", "level": "" },
-      { "name": "IoT", "level": "" },
-      { "name": "Robotics", "level": "" },
+      { "name": "Frontend Development", "level": "" },
+      { "name": "Backend Development", "level": "" },
+      { "name": "Full-Stack Web Dev", "level": "" },
       { "name": "QA & Testing", "level": "" }
     ]
   }
